@@ -1,5 +1,5 @@
 # Why
-When we came to this world we did not register for a voice. And your voice is not controlled by anybody as we try to be the air for your voice in the Web3 world.
+Our organization was founded on the belief that everyone has the right to express themselves freely. We strive to empower individuals by providing a platform for their voice in the Web3 world, where their opinions and ideas can be heard without interference.
 
 ## P2P (Web3) Communication Platform
 - Core API build with go,libp2p
